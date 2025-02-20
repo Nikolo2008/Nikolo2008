@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nikola
-- 👀 I’m interested in Football
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning Java
 - 📫 How to reach me https://www.facebook.com/profile.php?id=61556336083717
 
