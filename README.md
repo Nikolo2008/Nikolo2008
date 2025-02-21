@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nikola
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java
-- 📫 How to reach me https://www.facebook.com/profile.php?id=61556336083717
-
+- 📫 How to reach me ...
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61556336083717/)
 
 <!---
 Nikolo2008/Nikolo2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
